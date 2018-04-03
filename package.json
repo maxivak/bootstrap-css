@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-css",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "CSS utils for Bootstrap v4",
   "main": "index.js",
   "repository": {
@@ -9,5 +9,9 @@
   },
 
   "author": "Max Ivak <maxivak@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+
+  "dependencies": {
+    "bootstrap": "4.0.0-beta.2"
+  }
 }
