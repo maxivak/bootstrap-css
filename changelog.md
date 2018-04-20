@@ -1,3 +1,7 @@
+# 1.0.4
+
+* refactoring
+
 # 1.0.3
 
 * more styles for text, colors
