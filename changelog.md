@@ -1,3 +1,9 @@
+# 1.0.5
+
+* navs
+  * defaults
+  
+
 # 1.0.4
 
 * refactoring

@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-css",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "CSS utils for Bootstrap v4",
   "main": "index.js",
   "repository": {
